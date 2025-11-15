@@ -24,8 +24,9 @@ public class MethodsExample {
         MethodsExample obj = new MethodsExample();
 
         obj.sayHello();
-        obj.greet("Yogesh");
+        obj.greet("lakshmi");
         System.out.println("Number: " + obj.getNumber());
         System.out.println("Sum: " + obj.sum(10, 20));
     }
 }
+
